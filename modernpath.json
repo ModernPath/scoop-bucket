@@ -1,10 +1,10 @@
 {
-  "version": "0.21.0",
+  "version": "0.22.0",
   "description": "Connect your local development environment to ModernPath for AI-powered codebase analysis",
   "homepage": "https://modernpath.ai",
   "license": "MIT",
-  "url": "https://github.com/ModernPath/cli/releases/download/v0.21.0/modernpath-windows-amd64.zip",
-  "hash": "sha256:ccb98430e2be3c747063a14f6e81616aaa27b5ce6a7d1e942733046abe017940",
+  "url": "https://github.com/ModernPath/cli/releases/download/v0.22.0/modernpath-windows-amd64.zip",
+  "hash": "sha256:fc5af1948d0a22908266a314a941e50c556837f55f5f71a169a0f9ab9cc46fbd",
   "bin": "modernpath.exe",
   "checkver": {
     "github": "https://github.com/ModernPath/cli"
